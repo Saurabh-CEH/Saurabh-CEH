@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saurabh-CEH
+- 👋 Hi, I’m Saurabh
 - 👀 I’m interested in Cyber Security, Network Security
-- 🌱 I’m currently pursuing Masters in Cyber Security
+- 🌱 I completed Masters in Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on https://www.linkedin.com/in/gsaurabh533/
 
